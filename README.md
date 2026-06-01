@@ -28,7 +28,7 @@ Este projeto é uma API RESTful assíncrona desenvolvida com **FastAPI** para ge
 
 ---
 
-## ⚙️ Como Executar o Projeto
+##  Como Executar o Projeto
 
 Siga os passos abaixo para rodar a API localmente na sua máquina.
 
